@@ -1,0 +1,299 @@
+AICTE FACULTY ELIGIBILITY GUIDELINES
+Source: https://www.aicte.gov.in/education/faculty-norms
+Scraped on: 2026-09-29
+Official Body: All India Council for Technical Education (AICTE)
+
+===========================================================================
+OVERVIEW
+===========================================================================
+The All India Council for Technical Education (AICTE) is the statutory body
+that regulates technical education in India. As the apex regulatory body,
+AICTE prescribes minimum qualifications, pay scales, service conditions, and
+career advancement schemes for faculty in AICTE-approved technical institutions
+(degree-level and diploma-level).
+The eligibility norms have been updated through a series of Gazette Notifications
+aligned with successive Pay Commission recommendations (5th CPC, 6th CPC, 7th CPC).
+
+===========================================================================
+MINIMUM QUALIFICATIONS FOR APPOINTMENT (Degree-Level Institutions)
+Based on AICTE Regulation 2019 - 7th CPC (Current / Most Recent)
+===========================================================================
+
+--- A. ENGINEERING & TECHNOLOGY DISCIPLINES ---
+
+1. ASSISTANT PROFESSOR
+Minimum Qualifications:
+- First Class (or equivalent grade) in Bachelor's degree AND
+  First Class (or equivalent grade) in Master's degree in the
+  relevant branch of Engineering / Technology.
+- OR: First Class Master's degree in relevant discipline.
+- Ph.D. is desirable but not mandatory for initial appointment.
+- Candidates with Ph.D. in the relevant subject may be exempted from
+  the requirement of First Class at Bachelor's or Master's level.
+- Candidates without Ph.D. must clear National Eligibility Test (NET) or equivalent.
+Pay Band: Level 10 (Rs. 57,700 - 1,82,400) as per 7th CPC
+
+2. ASSOCIATE PROFESSOR
+Minimum Qualifications:
+- Ph.D. in the relevant discipline. MANDATORY.
+- First Class (or equivalent) at Bachelor's and Master's degree levels
+  in the relevant branch.
+- Minimum 8 years of experience in teaching / research / industry,
+  of which at least 2 years must be post-Ph.D.
+- At least 2 research publications in SCI / SCIE / Scopus indexed journals.
+Pay Band: Level 13A (Rs. 1,31,400 - 2,04,700) as per 7th CPC
+
+3. PROFESSOR
+Minimum Qualifications:
+- Ph.D. in the relevant discipline. MANDATORY.
+- First Class (or equivalent) at Bachelor's and Master's degree levels
+  in the relevant branch.
+- Minimum 10 years of experience in teaching / research / industry.
+- At least 6 research publications in SCI / SCIE / Scopus indexed journals.
+Pay Band: Level 14 (Rs. 1,44,200 - 2,18,200) as per 7th CPC
+
+--- B. COMPUTER SCIENCE / INFORMATION TECHNOLOGY / MCA ---
+
+1. ASSISTANT PROFESSOR
+Minimum Qualifications:
+- First Class Master's degree in Computer Applications (MCA) or
+  Computer Science / Information Technology, OR
+- First Class (or equivalent) B.E./B.Tech. in Computer Engineering /
+  Computer Science and Engineering / Information Technology AND
+  First Class M.E./M.Tech. in relevant discipline.
+- Ph.D. (MCA/Computer Science) is desirable.
+NOTE: As per Gazette Notification XIII (07.11.2022), MCA holders with
+Ph.D. are eligible for appointment at higher levels.
+
+2. ASSOCIATE PROFESSOR
+Minimum Qualifications:
+- Ph.D. in Computer Science / IT / Computer Applications. MANDATORY.
+- First Class at Bachelor's and Master's levels.
+- Minimum 8 years teaching/research/industry experience.
+- Minimum 2 publications in SCI/SCIE/Scopus indexed journals.
+
+3. PROFESSOR
+Minimum Qualifications:
+- Ph.D. in relevant discipline. MANDATORY.
+- Minimum 10 years of experience.
+- At least 6 publications in SCI/SCIE/Scopus indexed journals.
+
+--- C. MANAGEMENT / MBA ---
+
+1. ASSISTANT PROFESSOR
+Minimum Qualifications:
+- First Class (or equivalent) in Master's Degree in Business
+  Administration or equivalent management qualification (MBA or
+  equivalent), OR
+- First Class CA / ICWA / CS with First Class MBA / equivalent.
+- Ph.D. is desirable.
+
+2. ASSOCIATE PROFESSOR
+Minimum Qualifications:
+- Ph.D. in Management / Business Administration or related discipline. MANDATORY.
+- 8 years of experience in teaching / research / industry.
+- At least 2 SCI/SCIE/Scopus publications.
+
+3. PROFESSOR
+Minimum Qualifications:
+- Ph.D. in relevant discipline. MANDATORY.
+- 10 years of total experience.
+- At least 6 SCI/SCIE/Scopus publications.
+
+--- D. PHARMACY ---
+
+1. ASSISTANT PROFESSOR
+Minimum Qualifications:
+- First Class (or equivalent) Master's degree in Pharmacy (M.Pharm)
+  in the relevant specialization.
+
+2. ASSOCIATE PROFESSOR
+Minimum Qualifications:
+- Ph.D. in Pharmacy (relevant specialization). MANDATORY.
+- 8 years of teaching/research/industry experience.
+- Minimum 2 publications in indexed journals.
+
+3. PROFESSOR
+Minimum Qualifications:
+- Ph.D. in Pharmacy. MANDATORY.
+- 10 years of experience.
+- At least 6 publications in indexed journals.
+
+--- E. ARCHITECTURE ---
+
+1. ASSISTANT PROFESSOR
+Minimum Qualifications:
+- First Class Bachelor's degree in Architecture (B.Arch).
+- Registered with the Council of Architecture (COA).
+- Master's degree in Architecture / Planning or equivalent is preferred.
+
+2. ASSOCIATE PROFESSOR
+Minimum Qualifications:
+- Ph.D. in Architecture / Planning, OR
+- Master's degree in Architecture + 8 years relevant experience.
+- 2 publications / significant design works.
+
+3. PROFESSOR
+Minimum Qualifications:
+- Ph.D. or extensive professional accomplishment.
+- 10 years experience.
+- Publications / significant contributions to the field.
+
+===========================================================================
+MINIMUM QUALIFICATIONS FOR APPOINTMENT (Diploma-Level Institutions)
+Based on AICTE Regulation 2019 - 7th CPC
+===========================================================================
+
+1. LECTURER (equivalent to Assistant Professor at Diploma level)
+- First Class Bachelor's Degree in Engineering / Technology in the
+  relevant discipline, OR
+- First Class Diploma in the relevant discipline with at least 2 years
+  of industry / teaching experience.
+
+2. SENIOR LECTURER / HEAD OF DEPARTMENT
+- First Class Bachelor's Degree in Engineering / Technology.
+- Minimum 5 years of teaching / industry experience.
+- Master's degree in relevant discipline preferred.
+
+3. PRINCIPAL
+- First Class Bachelor's Degree in Engineering / Technology.
+- Minimum 15 years of experience (including 5 years in administration).
+- Master's degree required; Ph.D. preferred.
+
+===========================================================================
+CAREER ADVANCEMENT SCHEME (CAS)
+Based on AICTE Gazette Notifications V, VI (2012), VII (2016), XI, XII (2020)
+===========================================================================
+
+ASSISTANT PROFESSOR (Stage 1 to Stage 2):
+- 4 years of service as Assistant Professor at Stage 1.
+- Satisfactory performance in Annual Performance Index (API) scoring.
+- Minimum API score requirements as prescribed.
+
+ASSISTANT PROFESSOR (Stage 2 to Stage 3):
+- 3 additional years of service at Stage 2.
+- Minimum API score.
+- A published paper or significant contribution.
+
+ASSISTANT PROFESSOR (Stage 3) to ASSOCIATE PROFESSOR:
+- Completion of Ph.D. (if not already completed). MANDATORY.
+- Minimum 3 years at Stage 3.
+- API score requirements met.
+- Interview / selection process by duly constituted committee.
+
+ASSOCIATE PROFESSOR to PROFESSOR (CAS):
+- 3 years of service as Associate Professor.
+- Research publications as per prescribed norms.
+- Interview by selection committee.
+
+===========================================================================
+MAJOR / CORE BRANCHES OF ENGINEERING & TECHNOLOGY
+Based on AICTE Gazette Notification VIII (28.04.2017)
+===========================================================================
+
+AICTE has defined Major/Core Branches of Engineering & Technology for the
+purpose of determining relevant/appropriate qualifications for teaching
+appointments. Faculty must hold degree(s) in branches relevant or appropriate
+to the subject they teach.
+
+Recognized Major/Core Branches include:
+- Civil Engineering
+- Mechanical Engineering
+- Electrical Engineering
+- Electronics & Communication Engineering
+- Computer Science & Engineering
+- Information Technology
+- Chemical Engineering
+- Metallurgical Engineering
+- Mining Engineering
+- Aerospace Engineering
+- Biomedical Engineering
+- Biotechnology
+- Environmental Engineering
+- Industrial Engineering
+
+===========================================================================
+NON-TEACHING STAFF QUALIFICATIONS
+===========================================================================
+
+LIBRARIAN:
+- First Class (or equivalent) in Master's in Library and Information Science (MLIS).
+- NET / SLET / SET is desirable.
+- Minimum 2 years professional experience for Senior Librarian.
+
+PHYSICAL EDUCATION DIRECTOR:
+- First Class Master's degree in Physical Education (M.P.Ed.).
+- NET / SLET / SET qualification desirable.
+- National/International representation in sports is an advantage.
+
+TRAINING & PLACEMENT OFFICER:
+- First Class (or equivalent) MBA or equivalent management qualification.
+- OR First Class Engineering degree with relevant experience.
+- Experience in corporate relations and placement activities.
+
+===========================================================================
+PAY SCALES (7th CPC - Current as per Regulation 2019)
+===========================================================================
+
+Degree-Level Institutions:
+Assistant Professor Stage 1: Level 10, Rs. 57,700 - 1,82,400
+Assistant Professor Stage 2: Level 11, Rs. 68,900 - 2,05,500
+Assistant Professor Stage 3: Level 12, Rs. 79,800 - 2,11,500
+Associate Professor: Level 13A, Rs. 1,31,400 - 2,04,700
+Professor: Level 14, Rs. 1,44,200 - 2,18,200
+Senior Professor / HAG: Level 15, Rs. 1,82,200 - 2,24,100
+
+Diploma-Level Institutions:
+Lecturer: Level 10, Rs. 57,700 - 1,82,400
+Senior Lecturer: Level 11, Rs. 68,900 - 2,05,500
+Head of Department: Level 12, Rs. 79,800 - 2,11,500
+Principal: Level 14, Rs. 1,44,200 - 2,18,200
+
+===========================================================================
+KEY NOTES AND CLARIFICATIONS
+===========================================================================
+
+1. RELAXATION FOR INDUSTRY EXPERIENCE:
+Relevant industry experience in a reputed organization may be counted
+towards the teaching experience requirement at the discretion of the
+appointing institution, as per AICTE norms.
+
+2. FIRST CLASS DEFINITION:
+First Class means 60% or above marks (or equivalent grade/CGPA) at
+the graduate and postgraduate levels. For SC/ST/OBC/PwD candidates,
+relaxation in minimum marks may be applicable as per government norms.
+
+3. Ph.D. REQUIREMENT:
+Ph.D. is mandatory for Associate Professor and Professor positions.
+For Assistant Professor positions, candidates without Ph.D. must clear
+the National Eligibility Test (NET) or equivalent, wherever applicable.
+
+4. NET / SLET EXEMPTION:
+Candidates with Ph.D. awarded through a regular program as per UGC
+norms (2009 regulations) are exempted from NET/SLET requirements for
+Assistant Professor appointments.
+
+5. MCA / Ph.D. AMENDMENT (2022):
+As per Gazette Notification XIII dated 07.11.2022, the qualification
+criteria for MCA holders with Ph.D. were amended to enable their
+eligibility for higher-level positions (Associate Professor / Professor)
+in Computer Science / IT / related disciplines.
+
+6. INDUSTRY EXPERIENCE CREDIT:
+Each year of work experience in a reputed industry / R&D / Government
+organization at appropriate level is counted as equivalent to one year
+of teaching experience for the purpose of direct recruitment.
+
+7. PUBLICATIONS:
+- Publications must be in journals indexed in SCI / SCIE / Scopus
+  for engineering disciplines.
+- For Management, publications in ABDC / ABS / UGC-listed journals
+  are considered.
+- Books published by reputed publishers and book chapters are
+  considered separately from journal publications.
+
+8. ACADEMIC PERFORMANCE INDICATOR (API):
+The API scoring system evaluates faculty across three categories:
+Category I - Teaching, Learning & Evaluation Activities
+Category II - Co-curricular, Extracurricular & Professional Development
+Category III - Research & Academic Contributions

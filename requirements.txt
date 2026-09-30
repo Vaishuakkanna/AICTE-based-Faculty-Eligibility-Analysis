@@ -1,0 +1,28 @@
+# Core RAG framework
+langgraph
+langchain
+langchain-chroma
+langchain-huggingface
+langchain-groq
+langchain-community
+
+# Vector DB
+chromadb
+
+# PDF parsing
+pypdf
+
+# Local embeddings (all-MiniLM-L6-v2)
+sentence-transformers
+
+# Keyword extraction (KeyBERT with MMR diversity)
+keybert
+
+# Keyword search
+rank_bm25
+
+# CrossEncoder reranking
+# (included in sentence-transformers)
+
+# Data validation
+pydantic
