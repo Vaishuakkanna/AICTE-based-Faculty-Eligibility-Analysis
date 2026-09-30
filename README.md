@@ -6,7 +6,7 @@ This project is a Retrieval-Augmented Generation (RAG) system designed to evalua
 
 - **Resume Parsing:** Extracts structured key-value pairs (education, experience, publications, etc.) from PDF resumes.
 - **Advanced RAG Pipeline:** Uses a hybrid retrieval approach combining dense vector search (ChromaDB) and keyword search (BM25), followed by cross-encoder reranking to ensure highly relevant guideline retrieval.
-- **LangGraph Workflow:** Orchestrates the evaluation process step-by-step using a state graph.
+- **LangGraph Workflow:** Organizes the evaluation process step-by-step using a state graph.
 - **FastAPI Backend:** Provides a robust REST API for integrating with web interfaces.
 - **React Frontend:** A Vite-powered web interface for easy file uploads and user interaction.
 - **CLI Support:** Run evaluations directly from the command line.
